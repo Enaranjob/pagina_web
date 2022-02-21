@@ -1,0 +1,50 @@
+h1{
+    color: rgb(255, 38, 0);
+}
+h3,h2{
+    color: blue;
+    
+}
+.text-center{
+    text-align: center;
+}
+.text-justify{
+    text-align: justify;
+    line-height: 30px;
+    /*width: 1000px;*/
+   /* height: -85px;*/
+    
+}
+body{
+ 
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-8%);
+}
+img{
+    display:block;
+    margin:auto;
+    }
+#reg{
+
+    margin: 0;
+    margin-bottom: 2px;
+    margin-top: 3px;
+    padding: 5px;
+    border: 3px solid rgb(166, 228, 148);
+    width: 70px;
+    background-color: rgb(157, 255, 0);
+    float: left;
+    height: 35px;
+    width: 15%;
+}
+#bodytwo{
+    background-color: rgb(206, 206, 145);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    top: 10%;
+    left: 45%;
+    transform: translateX(-50%) translateY(-8%);
+}
